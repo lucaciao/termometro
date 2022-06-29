@@ -1,0 +1,1 @@
+let temperatura = input.temperature()
